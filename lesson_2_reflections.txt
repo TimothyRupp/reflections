@@ -17,8 +17,11 @@ organized? How would branches help?
 
 	Creating new features to try before changing the main design.
 	Creating a branch for another develper to work with.
+	
 
 How do the diagrams help you visualize the branch structure?
+
+	It provides a visual map of the files.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
