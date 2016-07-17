@@ -30,3 +30,5 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+	In a large code project, it would probably be quicker to automatically merge and then manually work of the areas that could not be automatically merged.
