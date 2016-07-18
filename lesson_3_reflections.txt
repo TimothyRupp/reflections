@@ -33,4 +33,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If you are working on a new ideo or change to you project which may not become part of the project ultimately.
+	One keeps the current code unchanged and free of bugs.
